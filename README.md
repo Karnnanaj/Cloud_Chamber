@@ -5,3 +5,4 @@ The cold plate can reach -27°C with chilled water as coolant, though it can be 
 I could not find a radioactive source to test it out properly, but I have managed to show cloud formation with high voltage source (not recomended as the alcohol can ignite)
   
 ![cloud_chamber](https://github.com/user-attachments/assets/83740d15-4af3-4cb1-a45d-9086d00bfec7)
+![testing](https://github.com/user-attachments/assets/9037a36b-0bdb-4a59-842e-c5e57c1416fe)
